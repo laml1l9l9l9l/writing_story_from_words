@@ -1,0 +1,15 @@
+{
+  "name": "writing_story_from_words",
+  "version": "1.0.0",
+  "description": "Training english",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "forestT",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.1",
+    "xlsx": "^0.17.5"
+  }
+}
